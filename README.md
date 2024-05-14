@@ -28,7 +28,7 @@ This landing page template provides a visually appealing layout for presenting i
 ## Usage
 
 1. Clone or download the repository.
-2. Open the `index.html` file in a web browser to view the landing page.
+2. Open the `Landing.html` file in a web browser to view the landing page.
 
 ## File Structure
 
